@@ -13,7 +13,7 @@ This project analyzes real network traffic using Wireshark and Java. It extracts
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - Java
 - Wireshark
 - JFreeChart
