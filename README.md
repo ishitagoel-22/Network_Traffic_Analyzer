@@ -1,10 +1,10 @@
-# 📊 Network Traffic Analyzer
+# Network Traffic Analyzer
 
 This project analyzes real network traffic using Wireshark and Java. It extracts insights like protocol distribution (TCP/UDP) and identifies the most active IP addresses.
 
 ---
 
-## 🚀 Features
+##  Features
 - Capture network packets using Wireshark
 - Analyze TCP and UDP traffic
 - Calculate percentage distribution
@@ -13,7 +13,7 @@ This project analyzes real network traffic using Wireshark and Java. It extracts
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 - Java
 - Wireshark
 - JFreeChart
